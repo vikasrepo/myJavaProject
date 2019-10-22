@@ -1,0 +1,3 @@
+config:- must onetime
+user.name
+user.email

@@ -1,7 +1,10 @@
-This Git Demo File One
+*********Welcome to Git*******
+
+     This Git Demo File One
 
 <h1>This is the Fist Change </h1>
 <body>
+	All set to go for git "Welcome To Git"
 
-All set to go for git
+           <h1>Analyze the Add Commit</h1>
 </body>

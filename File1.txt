@@ -15,6 +15,4 @@
 <li>HTC</li>
 <li>OnePlus</li>
 
-Adding the mobile
-
 </body>

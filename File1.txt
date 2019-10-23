@@ -1,10 +1,11 @@
+<html>
 *********Welcome to Git*******
 
      This Git Demo File One
 
-<h1>This is the Fist Change </h1>
+<head>This is the Fist Change Head</head>
 <body>
-	All set to go for git "Welcome To Git"
+	    All set to go for git "Welcome To Git"
 
            <h1>Analyze the Add Commit</h1>
 
@@ -16,3 +17,4 @@
 <li>OnePlus</li>
 
 </body>
+</html>
